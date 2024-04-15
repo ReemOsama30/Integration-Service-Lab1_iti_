@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>LAB1</Name>
-    <LastWriteTime>2024-04-15T09:53:03.0424887Z</LastWriteTime>
+    <LastWriteTime>2024-04-15T18:18:05.4932978Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -29,6 +29,11 @@
     <ProjectBuildItemInfo>
       <Name>Package4.dtsx</Name>
       <LastWriteTime>2024-04-15T09:53:02.6053514Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Package6.dtsx</Name>
+      <LastWriteTime>2024-04-15T18:18:05.0491325Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
